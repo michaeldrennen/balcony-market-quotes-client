@@ -1,0 +1,19 @@
+{
+  "ticker": "MBB",
+  "queryCount": 1,
+  "resultsCount": 1,
+  "adjusted": true,
+  "results": [
+    {
+      "v": 2451920,
+      "vw": 92.41,
+      "o": 92.35,
+      "c": 92.50,
+      "h": 92.65,
+      "l": 92.20,
+      "t": 1791522000000,
+      "n": 18230
+    }
+  ],
+  "status": "OK"
+}
